@@ -1,0 +1,1 @@
+This GitHub repository provides an introduction to Linear Quantum State Tomography using Qiskit, assuming prior basic knowledge of quantum mechanics. The included Jupyter Notebook offers step-by-step guidance on implementing state tomography techniques with Qiskit, covering theory and practical implementation.
